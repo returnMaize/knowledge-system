@@ -16,3 +16,4 @@ sub | [sʌb] | 替补；代替
 substitution |  [ˌsʌbstɪ'tjuːʃ(ə)n] | 代替；取代
 sequence |  [ˈsiːkwəns] | 一序列；顺序
 charset | [] | 字符集
+blank | [blæŋk] | 空白
